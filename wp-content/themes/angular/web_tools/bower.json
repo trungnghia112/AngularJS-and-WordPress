@@ -1,0 +1,25 @@
+{
+  "name": "angular-wordpress",
+  "homepage": "",
+  "description": "Building a single page application",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "trungnghia112 <trungnghia112@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "modernizr": "~2.8.3",
+    "jquery-placeholder": "mathiasbynens/jquery-placeholder#~2.1.3"
+  }
+}
