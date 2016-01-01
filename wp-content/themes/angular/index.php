@@ -1,5 +1,3 @@
 <?php get_header(); ?>
-    <div class="wrapper">
-
-    </div>
+	<div ui-view></div>
 <?php get_footer(); ?>
